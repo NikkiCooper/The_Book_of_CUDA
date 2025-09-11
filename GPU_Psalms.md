@@ -22,7 +22,7 @@
 
 > *Why hast thou forsaken me, O program?<br>
 > My kernels launch, yet my screen is but black.<br>
-> I cry unto thee with printf, but thou answerest not.*<br>
+> I cry unto thee with printf, but thou answerest not!*<br>
 
 ## Psalm 5: The Psalm of Victory
 
