@@ -9,3 +9,7 @@ build/
 # PyCharm
 .idea/
 *.iml
+
+# General
+# All files ending in ~
+*~
