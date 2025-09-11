@@ -1,21 +1,38 @@
-# 🔥 The Ten Commandments of CUDA 🔥 
+# 🔥 The Ten Commandments of CUDA 🔥
 
-> *Thou shalt not dereference null pointers in device code, lest thy kernel be cast into the void.*
+---
 
-> *Thou shalt honor thy memory alignment, that thy performance may be long upon the frame buffer.*
+## 1. ❌ Thou shalt not dereference null pointers in device code
+Lest thy kernel be cast into the void.
 
-> *Thou shalt not covet thy neighbor’s warp, nor introduce divergence among thy threads.*
+## 2. 📏 Thou shalt honor thy memory alignment
+That thy performance may be long upon the frame buffer.
 
-> *Thou shalt allocate and free memory with reverence, for the GPU giveth and the GPU taketh away.*
+## 3. 🧵 Thou shalt not covet thy neighbor’s warp
+Nor introduce divergence among thy threads.
 
-> *Thou shalt profile thy code, and know thy bottlenecks, for ignorance is the path to 3 FPS.*
+## 4. 💾 Thou shalt allocate and free memory with reverence
+For the GPU giveth and the GPU taketh away.
 
-> *Thou shalt not multiply thy thread blocks beyond reason, lest thy launch fail and thy logs overflow.*
+## 5. 📊 Thou shalt profile thy code
+And know thy bottlenecks, for ignorance is the path to 3 FPS.
 
-> *Thou shalt keep holy the shared memory, and not defile it with race conditions.*
+## 6. 📦 Thou shalt not multiply thy thread blocks beyond reason
+Lest thy launch fail and thy logs overflow.
 
-> *Thou shalt not bear false benchmarks, for only truth shall set thy frame rate free.*
+## 7. 🛡 Thou shalt keep holy the shared memory
+And not defile it with race conditions.
 
-> *Thou shalt compile with `-arch=sm_XX`, and know thy architecture, for compatibility is sacred.*
+## 8. 📈 Thou shalt not bear false benchmarks
+For only truth shall set thy frame rate free.
 
-> *Thou shalt not panic when thy kernel crashes, for the GPU God tests those whom He loves.*
+## 9. 🏗 Thou shalt compile with `-arch=sm_XX`
+And know thy architecture, for compatibility is sacred.
+
+## 10. 🐞 Thou shalt not panic when thy kernel crashes
+For the GPU God tests those whom He loves.
+
+---
+[← Previous: Genesis of a CUDA Program](Genesis_of_a_CUDA_Program.md) • [Next: GPU Psalms →](GPU_Psalms.md) • [Return ⬆ Table of Contents](README.md#-table-of-contents)
+
+
