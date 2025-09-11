@@ -9,7 +9,7 @@ For it hideth the serpent of undefined behavior.
 ---
 
 ## Heresy 2: The Unsafe Pointer 🧨
-She who casteth recklessly shall surely segfault.
+They who casteth recklessly shall surely segfault.
 
 ---
 

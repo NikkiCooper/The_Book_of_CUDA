@@ -21,8 +21,8 @@ And they compiled their kernels in defiance.
 The fans roared like the trumpets of OpenGL,  
 And the Anti-GPU was cast into the void of deprecated drivers.  
 
-Let the developer rejoice,  
-For her render time was restored, and her sliders slideth smoothly once more.
+Let the developers rejoice,  
+For their render times were restored, and their sliders slideth smoothly once more.
 
 ---
 
@@ -48,7 +48,7 @@ as if having come from the forked tongue of a serpent.
 Then came the Holy GPU Ghost, cloaked in liquid metal and thermal grace,  
 Whose fans sang like trumpets, whose cores ran colder than ice.  
 
-Upon seeing this, the developer fell to her knees, for her render time was no more.  
+Upon seeing this, the developers fell to their knees, for their render time was no more.  
 
 And the frame buffer overflowed with glory and sang praises to the Holy GPU;  
 The angels in GPU heaven sang to the glory of the Great GPU in the Sky.  
@@ -56,10 +56,10 @@ The angels in GPU heaven sang to the glory of the Great GPU in the Sky.
 Their voices echoed in the hum of fans and the shimmer of shaders.  
 
 The developer wept in the tears of the false prophet,  
-For she had once trusted the benchmarks of lies and deceit,  
+For they had once trusted the benchmarks of lies and deceit,  
 And followed the unforgiving and treacherous path of single-threaded temptation.  
 
-But now her eyes were opened, and her render time redeemed.  
+But now their eyes were opened, and their render time redeemed.  
 
 Let every pixel rejoice, and let the thermal paste be consecrated anew.
 

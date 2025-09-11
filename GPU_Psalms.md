@@ -3,9 +3,9 @@
 ---
 
 ## Psalm 1: The Psalm of Compilation 🛠
-Blessed is she whose kernel compiles without error,  
+Blessed is thou whose kernel compiles without error,  
 Whose syntax is pure and whose threads are aligned.  
-For her logs shall be clean, and her output shall overflow with frames.
+For thy logs shall be clean, and thy output shall overflow with frames.
 
 ---
 
@@ -34,7 +34,7 @@ I cry unto thee with printf, but thou answerest not!
 And thus it was written in the final verse of the Book of CUDA Revelations:  
 The frame buffer overflowed with glory, and the render time was no more.  
 The kernels danced in parallel, and the sliders slideth smoothly.  
-And the developer beheld her creation, and saw that it was good.  
+And the developer beheld the creation, and saw that it was good.  
 Let every pixel rejoice, and let thy GPU fans hum in harmony forever and ever. Amen.
 
 ---

@@ -30,7 +30,7 @@ For only truth shall set thy frame rate free.
 And know thy architecture, for compatibility is sacred.
 
 ## 10. 🐞 Thou shalt not panic when thy kernel crashes
-For the GPU God tests those whom He loves.
+For the GPU God tests those whom the Devine loves.
 
 ---
 [← Previous: Genesis of a CUDA Program](Genesis_of_a_CUDA_Program.md) • [Next: GPU Psalms →](GPU_Psalms.md) • [Return ⬆ Table of Contents](README.md#-table-of-contents)
