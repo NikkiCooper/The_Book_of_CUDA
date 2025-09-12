@@ -1,5 +1,7 @@
 # 📜 The Book of CUDA
 
+![Community Standards](https://img.shields.io/badge/community--profile-100%25-green)
+
 *“In the beginning, there was the void… and then there were threads.”*
 
 A satirical scripture chronicling the trials, triumphs, and temptations of the GPU pilgrim.
