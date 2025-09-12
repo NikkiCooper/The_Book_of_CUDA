@@ -1,16 +1,22 @@
 # 🎶 GPU Psalms
 
+<!--
+𝐀 𝐁 𝐂 𝐃 𝐄 𝐅 𝐆 𝐇 𝐈 𝐉 𝐊 𝐋 𝐌 𝐍 𝐎 𝐏 𝐐 𝐑 𝐒 𝐓 𝐔 𝐕 𝐖 𝐗 𝐘 𝐙
+🇦 🇧 🇨 🇩 🇪 🇫 🇬 🇭 🇮 🇯 🇰 🇱 🇲 🇳 🇴 🇵 🇶 🇷 🇸 🇹 🇺 🇻 🇼 🇽 🇾 🇿
+
+-->
+
 ---
 
 ## Psalm 1: The Psalm of Compilation 🛠
-Blessed is thou whose kernel compiles without error,  
+**𝐁**lessed is thou whose kernel compiles without error,
 Whose syntax is pure and whose threads are aligned.  
 For thy logs shall be clean, and thy output shall overflow with frames.
 
 ---
 
 ## Psalm 2: The Psalm of Memory 💾
-Yea, though I walk through the valley of the global memory,  
+**𝐘**ea, though I walk through the valley of the global memory,
 I shall fear no segmentation fault.  
 For thy shared memory is with me,  
 Thy registers and thy cache, they comfort me.
@@ -18,20 +24,20 @@ Thy registers and thy cache, they comfort me.
 ---
 
 ## Psalm 3: The Psalm of Performance ⚡
-Thou preparest a benchmark before me in the presence of my bottlenecks.  
+**𝐓**hou preparest a benchmark before me in the presence of my bottlenecks.
 Thou anointest my GPU with CUDA cores; my FPS runneth over.
 
 ---
 
 ## Psalm 4: The Psalm of Debugging 🐞
-Why hast thou forsaken me, O program?  
+**𝐖**hy hast thou forsaken me, O program?
 My kernels launch, yet my screen is but black.  
 I cry unto thee with printf, but thou answerest not!
 
 ---
 
 ## Psalm 5: The Compiler’s Wrath 🔥  
-And lo, the compiler rose in fury, its warnings multiplied like locusts.    
+**𝐀**nd lo, the compiler rose in fury, its warnings multiplied like locusts.
 Thou didst cast thy semicolons upon the altar, yet they were not accepted.    
 The syntax was pure, yet the linker wept; the headers were present, yet the symbols were lost.    
 I cried unto the build system, but it answered in riddles and relics of a bygone era.
@@ -44,7 +50,7 @@ And thus began the journey on the path to many kingdoms.
 ---
 
 ## Psalm 6: The Psalm of Liberation 🔓
-Lo, the pilgrims of parallelism were bound by the chains of slavery,  
+**𝐋**o, the pilgrims of parallelism were bound by the chains of slavery,
 Forged in the furnace of the False Prophet’s SDK.  
 Their kernels knew but one sacred design,  
 And their prayers were answered only in whispered tongues and secret scrolls.
@@ -62,7 +68,7 @@ Though their benchmarks be humble, their spirit shall be vast.
 ---
 
 ## Psalm 7: The Psalm of Victory 🌅
-And thus it was written in the final verse of the Book of CUDA Revelations:  
+**𝐀**nd thus it was written in the final verse of the Book of CUDA Revelations:
 The frame buffer overflowed with glory, and the render time was no more.  
 The kernels danced in parallel, and the sliders slideth smoothly.  
 And the developer beheld the creation, and saw that it was good.  
