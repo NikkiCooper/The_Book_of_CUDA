@@ -34,12 +34,12 @@ I cry unto thee with printf, but thou answerest not!
 And lo, the compiler rose in fury, its warnings multiplied like locusts.    
 Thou didst cast thy semicolons upon the altar, yet they were not accepted.    
 The syntax was pure, yet the linker wept; the headers were present, yet the symbols were lost.    
-I cried unto the build system, but it answered in riddles and deprecated flags.  
+I cried unto the build system, but it answered in riddles and relics of a bygone era.
 
 Then came the error of unknown origin, and the stack trace of infinite recursion.    
 The logs overflowed, and the IDE crashed, and the developer was cast into the void.    
 But from the silence came a whisper—not of recompilation, but of revelation.   
-And thus began the journey toward the path to many kingdoms.
+And thus began the journey on the path to many kingdoms.
 
 ---
 
