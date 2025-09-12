@@ -49,7 +49,7 @@ And thus began the journey on the path to many kingdoms.
 ---
 
 ## Psalm 6: The Psalm of Liberation 🔓
-**𝐋**o, the pilgrims of parallelism were bound by the chains of slavery,
+**𝐋**o, the pilgrims of parallelism were bound by the chains of slavery,  
 Forged in the furnace of the False Prophet’s SDK.  
 Their kernels knew but one sacred design,  
 And their prayers were answered only in whispered tongues and secret scrolls.
