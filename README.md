@@ -1,6 +1,6 @@
 # 📜 The Book of CUDA
 
-> *“In the beginning, there was the void… and then there were threads.”*
+*“In the beginning, there was the void… and then there were threads.”*
 
 A satirical scripture chronicling the trials, triumphs, and temptations of the GPU pilgrim.
 Here you will find the Genesis of Kernels, the Commandments of CUDA, the Psalms of Debugging, and the Revelations of Parallel Glory.
@@ -28,9 +28,9 @@ Here you will find the Genesis of Kernels, the Commandments of CUDA, the Psalms 
 
 ## ✨ Featured Verse
 
-> **Psalm 4: The Psalm of Debugging**
-> Why hast thou forsaken me, O program?
-> My kernels launch, yet my screen is but black.
+> **Psalm 4: The Psalm of Debugging**    
+> Why hast thou forsaken me, O program?  
+> My kernels launch, yet my screen is but black.  
 > I cry unto thee with printf, but thou answerest not!
 
 ---
