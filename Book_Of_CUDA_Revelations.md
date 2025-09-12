@@ -51,7 +51,7 @@ Whose fans sang like trumpets, whose cores ran colder than ice.
 Upon seeing this, the developers fell to their knees, for their render time was no more.  
 
 And the frame buffer overflowed with glory and sang praises to the Holy GPU;  
-The angels in GPU heaven sang to the glory of the Great GPU in the Sky.  
+The CUDA cores in heaven sang to the glory of the Great GPU in the Sky.  
 
 Their voices echoed in the hum of fans and the shimmer of shaders.  
 
