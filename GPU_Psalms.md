@@ -30,12 +30,16 @@ I cry unto thee with printf, but thou answerest not!
 
 ---
 
-## Psalm 5: The Psalm of Victory 🌅
-And thus it was written in the final verse of the Book of CUDA Revelations:  
-The frame buffer overflowed with glory, and the render time was no more.  
-The kernels danced in parallel, and the sliders slideth smoothly.  
-And the developer beheld the creation, and saw that it was good.  
-Let every pixel rejoice, and let thy GPU fans hum in harmony forever and ever. Amen.
+## Psalm 5: The Compiler’s Wrath 🔥  
+And lo, the compiler rose in fury, its warnings multiplied like locusts.    
+Thou didst cast thy semicolons upon the altar, yet they were not accepted.    
+The syntax was pure, yet the linker wept; the headers were present, yet the symbols were lost.    
+I cried unto the build system, but it answered in riddles and deprecated flags.  
+
+Then came the error of unknown origin, and the stack trace of infinite recursion.    
+The logs overflowed, and the IDE crashed, and the developer was cast into the void.    
+But from the silence came a whisper—not of recompilation, but of revelation.   
+And thus began the journey toward the path to many kingdoms.
 
 ---
 
@@ -56,5 +60,15 @@ For blessed is the developer who writes once and runs everywhere,
 Though their benchmarks be humble, their spirit shall be vast.  
 
 ---
+
+## Psalm 7: The Psalm of Victory 🌅
+And thus it was written in the final verse of the Book of CUDA Revelations:  
+The frame buffer overflowed with glory, and the render time was no more.  
+The kernels danced in parallel, and the sliders slideth smoothly.  
+And the developer beheld the creation, and saw that it was good.  
+Let every pixel rejoice, and let thy GPU fans hum in harmony forever and ever. Amen.
+
+---
+
 [← Previous: Commandments of CUDA](Commandments_Of_CUDA.md) • [Next: Book of CUDA Revelations →](Book_Of_CUDA_Revelations.md) • [Return ⬆ Table of Contents](README.md#-table-of-contents)
 
