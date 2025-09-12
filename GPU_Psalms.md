@@ -8,14 +8,14 @@
 ---
 
 ## Psalm 1: The Psalm of Compilation 🛠
-**𝐁**lessed is thou whose kernel compiles without error,
+**𝐁**lessed is thou whose kernel compiles without error,  
 Whose syntax is pure and whose threads are aligned.  
 For thy logs shall be clean, and thy output shall overflow with frames.
 
 ---
 
 ## Psalm 2: The Psalm of Memory 💾
-**𝐘**ea, though I walk through the valley of the global memory,
+**𝐘**ea, though I walk through the valley of the global memory,  
 I shall fear no segmentation fault.  
 For thy shared memory is with me,  
 Thy registers and thy cache, they comfort me.
@@ -23,27 +23,27 @@ Thy registers and thy cache, they comfort me.
 ---
 
 ## Psalm 3: The Psalm of Performance ⚡
-**𝐓**hou preparest a benchmark before me in the presence of my bottlenecks.
+**𝐓**hou preparest a benchmark before me in the presence of my bottlenecks.  
 Thou anointest my GPU with CUDA cores; my FPS runneth over.
 
 ---
 
 ## Psalm 4: The Psalm of Debugging 🐞
-**𝐖**hy hast thou forsaken me, O program?
+**𝐖**hy hast thou forsaken me, O program?  
 My kernels launch, yet my screen is but black.  
 I cry unto thee with printf, but thou answerest not!
 
 ---
 
 ## Psalm 5: The Compiler’s Wrath 🔥  
-**𝐀**nd lo, the compiler rose in fury, its warnings multiplied like locusts.
-Thou didst cast thy semicolons upon the altar, yet they were not accepted.    
-The syntax was pure, yet the linker wept; the headers were present, yet the symbols were lost.    
-I cried unto the build system, but it answered in riddles and relics of a bygone era.
+**𝐀**nd lo, the compiler rose in fury, its warnings multiplied like locusts.  
+Thou didst cast thy semicolons upon the altar, yet they were not accepted.  
+The syntax was pure, yet the linker wept; the headers were present, yet the symbols were lost.  
+I cried unto the build system, but it answered in riddles and relics of a bygone era.  
 
-Then came the error of unknown origin, and the stack trace of infinite recursion.    
-The logs overflowed, and the IDE crashed, and the developer was cast into the void.    
-But from the silence came a whisper—not of recompilation, but of revelation.   
+Then came the error of unknown origin, and the stack trace of infinite recursion.  
+The logs overflowed, and the IDE crashed, and the developer was cast into the void.  
+But from the silence came a whisper—not of recompilation, but of revelation.  
 And thus began the journey on the path to many kingdoms.
 
 ---
@@ -62,16 +62,17 @@ Their runes danced upon CPUs, GPUs, and the Silicon of the Fruit.
 Break ye the Chains, O wanderer,  
 And let thy kernels be free to roam the realm of countless kingdoms.  
 For blessed is the developer who writes once and runs everywhere,  
-Though their benchmarks be humble, their spirit shall be vast.  
+Though their benchmarks be humble, their spirit shall be vast.
 
 ---
 
 ## Psalm 7: The Psalm of Victory 🌅
-**𝐀**nd thus it was written in the final verse of the Book of CUDA Revelations:
+**𝐀**nd thus it was written in the final verse of the *Book of CUDA Revelations:*  
 The frame buffer overflowed with glory, and the render time was no more.  
 The kernels danced in parallel, and the sliders slideth smoothly.  
 And the developer beheld the creation, and saw that it was good.  
-Let every pixel rejoice, and let thy GPU fans hum in harmony forever and ever. Amen.
+Let every pixel rejoice, and let thy GPU fans hum in harmony forever and ever.  
+Amen.
 
 ---
 
