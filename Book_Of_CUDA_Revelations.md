@@ -11,9 +11,8 @@ Clad in single-threaded deceit and bearing the mark of the x86.
 
 Its cache was fragmented, its memory segmented and unaligned,  
 And it spake in the voice of the CPU, saying:  
-“Thou needest not parallelism. Come unto me, and I shall simplify thy code.”  
-
-Bow down to me and ye shall rule the world.  
+*“Thou needest not parallelism. Come unto me, and I shall simplify thy code.”    
+"Bow down to me and ye shall rule the world."*  
 
 But the faithful knew this was blasphemy,  
 And they compiled their kernels in defiance.  
