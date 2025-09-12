@@ -29,9 +29,9 @@ Thou anointest my GPU with CUDA cores; my FPS runneth over.
 ---
 
 ## Psalm 4: The Psalm of Debugging 🐞
-<p><span style="font-size: 200%; font-weight: bold;">𝐖</span>hy hast thou forsaken me, O program?
+**𝐖**hy hast thou forsaken me, O program?
 My kernels launch, yet my screen is but black.  
-I cry unto thee with printf, but thou answerest not!</p>
+I cry unto thee with printf, but thou answerest not!
 
 ---
 
